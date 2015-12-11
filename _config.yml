@@ -1,0 +1,28 @@
+name: Loose Fish Media
+favicon: null
+layout_spectrum: 0.2595842054579407
+typography_spectrum: 0.3756852007936686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7156342824455351
+  lightness: 0.6646091199945658
+  saturation: 0.37243024772033095
+  rhythmicContrast: 0.4390816413797438
+purpose: []
